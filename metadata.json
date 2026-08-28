@@ -1,0 +1,6 @@
+{
+  "name": "Direct Dispatch Optimizer",
+  "description": "Supply-chain logistics optimization platform evaluating Direct Dispatch vs Traditional DC routing with block coordinate ascent policy search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
